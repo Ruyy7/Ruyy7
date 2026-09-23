@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I´m currently studying at the Universidad de La Plata Infromática :)<br><br>- 📚 I'm currently learning cybersecurity.<br>- 🎈 In my free time I like to hang out with friends, play with my cat and also go to the gym.</p>
+<p align="left">I´m currently studying at the Universidad de La Plata Infromática :)<br>- 🎈 In my free time I like to hang out with friends, play with my cat and also go to the gym.</p>
 
 ###
 
